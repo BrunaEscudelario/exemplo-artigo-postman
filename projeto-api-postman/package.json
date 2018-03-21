@@ -1,0 +1,13 @@
+{
+  "name": "projeto-api-postman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "brunaescudelario",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "mongodb": "^2.2.16"
+  }
+}
